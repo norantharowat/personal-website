@@ -1,0 +1,35 @@
+baseURL = ""
+languageCode = "en-us"
+title = "My Blog"
+theme = "mero"
+disableKinds = ["taxonomyTerm"]
+
+[params]
+  dateFormat = "2006-01-02" 
+  author = "Noran Tharowat"
+  description = "My awesome blog"
+  mainImage = ".."
+
+[params.introduction]
+   text = "**This website** is my blog."
+
+[params.social]
+  [[params.social.list]]
+  class = "fab"
+  icon = "fa-linkedin-in"
+  url = "https://www.linkedin.com/in/noran-tharowat-540910194/"
+
+  [[params.social.list]]
+  class = "fab"
+  icon = "fa-github"
+  url = "https://github.com/norantharowat"
+
+  [[params.social.list]]
+  class = "fab"
+  icon = "fa-facebook"
+  url = "https://www.facebook.com/profile.php?id=100006204165940"
+
+  
+
+[params.footer]
+  message = "&copy; 2018 Name"
