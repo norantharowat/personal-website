@@ -8,10 +8,10 @@ disableKinds = ["taxonomyTerm"]
   dateFormat = "2006-01-02" 
   author = "Noran Tharowat"
   description = "My awesome blog"
-  mainImage = "images/main.jpg"
+  mainImage = "images/main.jpeg"
 
 [params.introduction]
-   text = "**This website** is my blog."
+   text = "**This website** is my personal blog."
 
 [params.social]
   [[params.social.list]]
