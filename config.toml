@@ -8,7 +8,7 @@ disableKinds = ["taxonomyTerm"]
   dateFormat = "2006-01-02" 
   author = "Noran Tharowat"
   description = "My awesome blog"
-  mainImage = ".."
+  mainImage = "images/main.jpg"
 
 [params.introduction]
    text = "**This website** is my blog."
