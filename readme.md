@@ -1,16 +1,10 @@
-# Theowing ball
-In this animation we simulate the body motion of a baseball player when throwing the ball.
+Accroding to the following paper:
+https://math.mit.edu/~bush/wordpress/wp-content/uploads/2014/04/Sneezing-JFM.pdf - automatic!
 
-![Alt Text](https://drive.google.com/file/d/1BRXRbNRE_mURA36D5sg5lR8ll7isf9H4/view?usp=sharing)
+The following figure demonstrates the spreading and settling of the particles from a cough cloud emitted horizontally. This cloud is of radius r(t) at position s(t) from the source, where ** r = $\alpha S$ **, while alpha is a constant known as the entrainment coefficient. and ** S = $t^ 1/4$ **
 
-# Dancing
+$\alpha$ was taken too be 0.03
 
-In this animation we simulated the motion of a simple dancing moves like making the body spinning around himself then dapping. 
+[!text](https://drive.google.com/file/d/1HWWzOI64mJptz7gxQmuM_8JYUhn8T1e8/view?usp=sharing)
 
-![Alt Text](![Alt Text](https://drive.google.com/file/d/1BRXRbNRE_mURA36D5sg5lR8ll7isf9H4/view?usp=sharing)
 
-# Sitting
-
-In this animation we simulated the motion of a person walking and sitting on a sofa. 
-
-![Alt Text](![Alt Text](https://drive.google.com/file/d/1qk1IXNZibyBw6XzY_w1e9tn_rHNRU2X3/view?usp=sharing)
